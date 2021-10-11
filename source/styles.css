@@ -1,0 +1,51 @@
+body {
+  font-family: "Rubik", sans-serif;
+  color: #e7eaf6;
+  background: #a2a8d3;
+}
+
+h1 {
+  margin: 20px auto 10px 45px;
+}
+h2 {
+  display: inline;
+  font-size: 80px;
+  font-weight: 150;
+  margin: 20px auto 0px 20px;
+}
+ul {
+  margin: 0px auto 5px 5px;
+  list-style-type: none;
+  font-size: 20px;
+}
+
+form {
+  margin: 40px auto 10px 50px;
+}
+
+p {
+  position: relative;
+  right: -370px;
+  top: 25px;
+}
+
+.container {
+  display: block;
+  margin: 0 auto;
+  padding: 5px 5px 90px 5px;
+  border: 1px solid #113f67;
+  border-radius: 10px;
+  max-width: 50%;
+  width: 100%;
+  background: #38598b;
+  box-shadow: 3px 12px 30px rgba(0, 0, 0, 0.3);
+}
+
+.weather-temp {
+  position: absolute;
+  top: 235px;
+}
+#rainy {
+  display: inline;
+  margin: 10px 0px 10px 45px;
+}
